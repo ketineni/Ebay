@@ -1,0 +1,9 @@
+<?xml-model href="ebay.dtd"?>
+<suite name = "ebay">
+   <test  name = "ebaytest" >
+      <classes>
+           <class name = "Ebay_testing"/>
+       </classes>    
+
+   </test> 
+</suite>

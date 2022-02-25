@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ebay]">
+  <test thread-count="5" name="ebaytest(failed)">
+    <classes>
+      <class name="Ebay_testing">
+        <methods>
+          <include name="smokeTest"/>
+        </methods>
+      </class> <!-- Ebay_testing -->
+    </classes>
+  </test> <!-- ebaytest(failed) -->
+</suite> <!-- Failed suite [ebay] -->
